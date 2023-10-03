@@ -1,4 +1,4 @@
-# Este Game trata-se de um cubo girando no próprio eixo
+# Cubo Girando
 
 <p>
 Para executar o jogo é necessário que tenha o Unity instalado e clonar o repositório.
